@@ -6,7 +6,6 @@ from streamlit_option_menu import option_menu
 import time
 
 
-img_contact_form = Image.open("images/pc.jpg")
 ryzen5600x = Image.open("images/ryzen5600x.webp")
 ryzen55600g = Image.open('images/Ryzen55600g.png')
 i913900k = Image.open("images/i913900k.png")
