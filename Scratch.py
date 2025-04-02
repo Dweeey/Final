@@ -721,11 +721,4 @@ The AMD Radeon RX 7900 XTX had a lot to prove when it hit the scene at the end o
                 """
              )
 
-
-
-
-
-
-
-        
-
+print ("Hello world")
